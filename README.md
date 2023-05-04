@@ -24,7 +24,7 @@ I'm interested in 🤖 OpenAI and integrating it with Raspberry Pi and Arduino, 
 
 [![Follow on Linkedin](https://img.shields.io/badge/kokoye2007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokoye2007)
 [![Follow on Twitter](https://img.shields.io/badge/kokoye2007-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kokoye2007)
-[![Follow on Meastodon](https://img.shields.io/badge/kokoye2007-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://twitter.com/kokoye2007)
+[![Follow on Meastodon](https://img.shields.io/badge/kokoye2007-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@kokoye2007)
 
 
 
