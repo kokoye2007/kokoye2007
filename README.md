@@ -20,6 +20,16 @@ I'm interested in 🤖 OpenAI and integrating it with Raspberry Pi and Arduino, 
 
 📍 I hail from 🇲🇲 and currently living in the 🌍.
 
+### 🤝 Connect with me:
+
+[![Follow on Linkedin](https://img.shields.io/badge/kokoye2007-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kokoye2007)
+[![Follow on Twitter](https://img.shields.io/badge/kokoye2007-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kokoye2007)
+[![Follow on Meastodon](https://img.shields.io/badge/kokoye2007-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://twitter.com/kokoye2007)
+
+
+
+- 💬 Feel free to contact me if you have any questions or feedback.
+
 ---
 ## Hobbies ...
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -137,14 +147,36 @@ Current Desktop: Ubuntu 22.04.2 LTS
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
 ---
 
+## Git Status
 ![Ko Ko Ye's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoye2007&layout=compact&langs_count=8)
 
 ![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kokoye2007&show_icons=true&theme=default#gh-light-mode-only)
 
 ![Ko Ko Ye's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kokoye2007)
+---
 
-🐦	![Twitter](https://img.shields.io/twitter/follow/kokoye2007?style=social)
-🦣 ![Mastodon](https://img.shields.io/mastodon/follow/109812558375742319?domain=https%3A%2F%2Fburma.social&style=social)
+fork from [ZYL](https://github.com/zawyelwin/zawyelwin/).
 
-First fork from [ZYL](https://github.com/zawyelwin/zawyelwin/).
+<!-- Ref:
 
+Emoji:
+- https://bartwullems.blogspot.com/2020/08/azure-devops-github-emoji.html
+- https://emojipedia.org
+
+Icon:
+- https://simpleicons.org/
+
+Badges:
+- https://shields.io/
+- https://badgen.net/
+- https://github.com/Ileriayo/markdown-badges
+- https://github.com/badges/shields
+- https://dev.to/envoy_/150-badges-for-github-pnk
+- https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+Status:
+- https://github.com/anuraghazra/github-readme-stats
+
+
+-->
+---
