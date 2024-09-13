@@ -18,6 +18,8 @@ I'm a hardcore 🐚 Bash script fan and the creator of tools such as
 
 I'm interested in 🤖 OpenAI and integrating it with Raspberry Pi and Arduino, with join ⚡ [tasker](https://tasker.joaoapps.com/) platforms. As a 🧠 brainstorming host and mentor, I love bouncing new ideas.
 
+Some application like [Dhammapada Quotes - MultiLang](https://play.google.com/store/apps/details?id=com.osstechsolution.dhammapada)
+
 📍 I hail from 🇲🇲 and currently living in the 🌍.
 
 ### 🤝 Connect with me:
